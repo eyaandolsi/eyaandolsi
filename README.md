@@ -30,4 +30,4 @@ Continuously improving my skills in Data Analytics, Data Science, and BI Enginee
 ## 🤝 Let's Connect
 
 - GitHub: [@eyaandolsi](https://github.com/eyaandolsi)
-- LinkedIn: *Add your LinkedIn profile URL here*
+- LinkedIn: [*Add your LinkedIn profile URL here*](https://www.linkedin.com/in/aya-andolsi-a334a425a/)
